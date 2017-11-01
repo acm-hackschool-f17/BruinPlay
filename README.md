@@ -8,6 +8,39 @@
 
 You will be creating a SoundCloud-like web application that stores songs (MP3 files, song metadata, album artwork, etc.) in a database and presents these songs to a client (user). The client can also listen to any of the songs in the database, and can add or delete songs. This is your final project, so take it as a chance to apply everything that we’ve taught you this quarter!
 
+#### First Steps:
+
+##### Step 1: Download starter code
+
+Option 1 - Via Download
+
+- Click on the green button at the top right corner of this page
+- Click "Download ZIP"
+- Open the starter folder in your preferred editor
+
+Option 2 - Via Git
+
+- Run the following in your terminal:
+
+```
+$ git clone https://github.com/acm-hackschool-f17/BruinPlay.git
+$ cd BruinPlay
+```
+
+##### Step 2: Install libraries using NPM
+
+- Run the following in your terminal (once you are in the BruinPlay directory):
+
+```
+$ npm install
+```
+
+- To start the server:
+
+```
+$ npm server.js
+```
+
 #### Essential Links:
 
 - <a href="https://github.com/acm-hackschool-f17/Resources/blob/master/html-css-step-by-step.md">HTML/CSS step-by-step</a>
@@ -58,3 +91,4 @@ You will be creating a SoundCloud-like web application that stores songs (MP3 fi
   - Finally, try to implement adding/deleting songs.
   - **Save your files often, and constantly test your website.** If you try to build too much at once, chances are your code will have a lot of bugs–and the more code you have, the harder it will be to find them.
   - Don’t be afraid to ask for help from your peers or mentors! We’re all here to help each other succeed. :)
+
