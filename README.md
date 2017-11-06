@@ -1,4 +1,4 @@
-# Hackschool-Final-Project-README
+# Hackschool Final Project Spec
 
 ## BruinPlay
 
