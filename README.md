@@ -19,9 +19,13 @@ You will be creating a SoundCloud-like web application that stores songs (MP3 fi
 
 ##### Step 2: Download starter code
 
+<img src="https://lh6.googleusercontent.com/pEVIvTfmqZDckInyeHxMb18PswSmEnYuzsufzaJoeTtCIL1ikgbHnRIAwN3HIA-41VmogbYOoDKlyJhAkN2qdtUUE0EAdy2D-qXjAy8mL_R2GmU10FNfNSVrMnN1D9Q90P1tOHYk" width="300px">
+
+- Ensure that the BruinPlay repository is now under your own Github account.
+
 Option 1 - Via Download
 
-- Click on the green button at the top right corner of this page
+- Click on the green button at the top right corner of the page
 - Click "Download ZIP"
 - Open the starter folder in your preferred editor
 
@@ -30,7 +34,7 @@ Option 2 - Via Git
 - Run the following in your terminal:
 
 ```
-$ git clone https://github.com/acm-hackschool-f17/BruinPlay.git
+$ git clone https://github.com/[YOUR-GITHUB-USERNAME]/BruinPlay.git
 $ cd BruinPlay
 ```
 
