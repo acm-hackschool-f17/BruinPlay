@@ -57,7 +57,7 @@ $ npm server.js
 - <a href="https://github.com/acm-hackschool-f17/Resources/blob/master/html-css-step-by-step.md">HTML/CSS step-by-step</a>
 - <a href="https://github.com/acm-hackschool-f17/Resources/blob/master/Hack-Session-1-README.md">HTML/CSS Cheat Sheet</a>
 - <a href="https://github.com/acm-hackschool-f17/Resources/blob/master/Learn-Session-2-README.md">Bootstrap/JavaScript Cheat Sheet</a>
-- <a href="https://github.com/acm-hackschool-f17/Resources/blob/master/nodejs-README.md">node.js Cheat Sheet</a>
+- <a href="https://github.com/acm-hackschool-f17/Resources/blob/master/nodejs-handlebars-README.md">node.js and Handlebars.js Cheat Sheet</a>
 - [TO-DO]\(MongoDB Cheat Sheet)
 
 #### Functionalities Required for Certificate:
