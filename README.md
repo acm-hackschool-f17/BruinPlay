@@ -49,7 +49,7 @@ $ npm install
 - To start the server:
 
 ```
-$ npm server.js
+$ node server.js
 ```
 
 #### Essential Links:
